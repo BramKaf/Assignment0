@@ -10,7 +10,7 @@ import re
 root = Tk()
 root.geometry("500x370")
 
-filename = "Documents\GitHub\Assignment0\data_capital_city.txt"
+filename = "data_capital_city.txt"
 
 #1. Vraag de user om een input -> het land
 e = Entry(root, width=25)
